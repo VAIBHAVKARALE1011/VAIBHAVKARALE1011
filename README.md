@@ -36,6 +36,5 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" alt="Power BI" width="40" height="40"/>
-  </a>
-</p>
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/PNG/PowerBI.png?raw=true" alt="Power BI" width="40" height="40"/>
+</a>
