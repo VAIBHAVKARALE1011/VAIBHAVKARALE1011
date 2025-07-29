@@ -5,12 +5,16 @@
 - 💬 Ask me about **Python, MySQL, and Data Manipulation**  
 - 📫 Reach me at: **karalevaibhav02@gmail.com**
 
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/vaibhavkarale" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -36,5 +40,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/PNG/PowerBI.png?raw=true" alt="Power BI" width="40" height="40"/>
-</a>
+    <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/PNG/PowerBI.png?raw=true" alt="Power BI" width="40" height="40"/>
+  </a>
+</p>
