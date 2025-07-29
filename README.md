@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Vaibhav KArale</h1>
+<h1 align="center">Hi 👋, I'm Vaibhav Karale</h1>
 <h3 align="center">Data Analyst | Passionate about Problem Solving and Programming</h3>
 
-- 🧠 I’m skilled in **Python and core libraries like Pandas , Matplotliob , Seaborn and NumPy**
-- 💬 Ask me about **Python, MySQL, and Data Manipulation**
+- 🧠 I’m skilled in **Python and core libraries like Pandas, Matplotlib, Seaborn, and NumPy**  
+- 💬 Ask me about **Python, MySQL, and Data Manipulation**  
 - 📫 Reach me at: **karalevaibhav02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/vaibhavkarale " target="blank">
+  <a href="https://www.linkedin.com/in/vaibhavkarale" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
@@ -34,5 +34,8 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://seeklogo.com/images/P/power-bi-logo-F8B272B8B0-seeklogo.com.png" alt="Power BI" width="40" height="40"/>
   </a>
 </p>
