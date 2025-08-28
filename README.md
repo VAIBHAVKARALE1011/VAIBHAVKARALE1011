@@ -7,7 +7,7 @@
 <h3 align="center" style="color:#4CAF50;">📊 Python Developer Intern @ PJSoftTech</h3>
 
 ## 🧑‍💻 About Me
-- 🎓 Python Developer at PJSoftTech Pvt.Ltd.
+- 🎓 B.E. in Artficial Intelligence & Data Science
 - 📊 Skilled in **Python**, **SQL**, **Power BI**, **Tableau** and **Excel**
 - 🏆 Completing a Data Science course at MITCON with an A+ grade.
 - 💡 Passionate about **data-driven decision making**
