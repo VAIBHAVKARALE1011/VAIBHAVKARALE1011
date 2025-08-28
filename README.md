@@ -15,8 +15,7 @@
 
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/vaibhavkarale/)  
-- [GitHub](https://github.com/VAIBHAVKARALE1011)  
-- [Portfolio](https://your-portfolio-link.com)  
+- [Portfolio](https://vaibhavkarale1011.github.io/)  
 - 📧 **Email:** karalevaibhav@gmail.com  
 
 ## 🛠️ Languages and Tools
