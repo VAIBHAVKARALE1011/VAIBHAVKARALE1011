@@ -7,20 +7,21 @@
 <h3 align="center" style="color:#4CAF50;">📊 Python Developer Intern @ PJSoftTech</h3>
 
 ## 🧑‍💻 About Me
-- 🎓 B.E. in Artficial Intelligence & Data Science
-- 📊 Skilled in **Python**, **SQL**, **Power BI**, **Tableau** and **Excel**
-- 🏆 Completed a Diploma in Data Science and Analytics from Gamaka AI Training Institute with an A+ grade.
-- 💡 Passionate about **data-driven decision making**
-- 🤖 Currently working on Machine Learning to develop practical skills in predictive modeling and analytics.
-
+- 🎓 B.E. in Artificial Intelligence & Data Science  
+- 📊 Skilled in **Python**, **SQL**, **Power BI**, **Tableau**, and **Excel**  
+- 🏆 Completed a Diploma in Data Science and Analytics from Gamaka AI Training Institute with an A+ grade.  
+- 💡 Passionate about **data-driven decision making**  
+- 🤖 Currently working on Machine Learning to develop practical skills in predictive modeling and analytics.  
 
 ## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/vaibhavkarale/)
-- [GitHub](https://github.com/VAIBHAVKARALE1011)
-- [Portfolio]
-- 📧 **Email:** karalevaibhav@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/vaibhavkarale/)  
+- [GitHub](https://github.com/VAIBHAVKARALE1011)  
+- [Portfolio](https://your-portfolio-link.com)  
+- 📧 **Email:** karalevaibhav@gmail.com  
 
-  <h3 align="left">Languages and Tools:</h3>
+## 🛠️ Languages and Tools
+<hr/>
+
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -44,5 +45,3 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
 </p>
-
-
