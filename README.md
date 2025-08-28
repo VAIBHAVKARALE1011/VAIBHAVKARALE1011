@@ -15,6 +15,6 @@
 
 
 ## 📫 Connect With Me
-- [LinkedIn]([(https://www.linkedin.com/in/vaibhavkarale/)]
-- [GitHub][(https://github.com/VAIBHAVKARALE1011)]
+- [LinkedIn](https://www.linkedin.com/in/vaibhavkarale/)
+- [GitHub](https://github.com/VAIBHAVKARALE1011)
 - 📧 **Email:** karalevaibhav@gmail.com   
