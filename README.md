@@ -15,6 +15,6 @@
 
 
 ## 📫 Connect With Me
-- [LinkedIn]([https://www.linkedin.com/in/yash-thorat-5898b32a9/](https://www.linkedin.com/in/vaibhavkarale/))  
-- [GitHub]([https://github.com/YCThorat02](https://github.com/VAIBHAVKARALE1011))  
+- [LinkedIn]([(https://www.linkedin.com/in/vaibhavkarale/)]
+- [GitHub][(https://github.com/VAIBHAVKARALE1011)]
 - 📧 **Email:** karalevaibhav@gmail.com   
